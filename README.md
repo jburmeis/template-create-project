@@ -6,4 +6,5 @@ npx @jburmeis/create-project
 ```
 
 ## Available templates
-- [Webservice Node.js](template-webservice-nodejs)
+- [Webservice Node.js](https://github.com/jburmeis/template-webservice-nodejs)
+- [Web Application (minimal starter)](https://github.com/jburmeis/template-webstart-modular)
